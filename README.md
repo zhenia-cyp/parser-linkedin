@@ -42,7 +42,7 @@ Don't forget to use double '\\'.
           driver.find_element(By.XPATH, '//*[@id="username"]').send_keys("Login to LinkedIn")
           driver.find_element(By.XPATH, '//*[@id="password"]').send_keys("password for LinkedIn")
 
-5) In the enter_to_linkedin() function replace the LinkedIn search link with filters to your own 
+5) In the enter_to_linkedin() function replace search link with filters to your own 
 or keep the existing one for demonstration purposes
 
          driver.get("https://www.linkedin.com/sales/search/company?query=......")
