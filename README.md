@@ -35,7 +35,7 @@ In the enter_to_linkedin() function replace the file path with your own.
 
         driver = webdriver.Chrome(executable_path="C:\\Users\\josephbiden\\Desktop\\parser\\chromedriver\\chromedriver.exe")
 
-Don't forget to use '\\'.
+Don't forget to use double '\\'.
 
 4) You need to set your LinkedIn login and password in the enter_to_linkedin() function.
    
