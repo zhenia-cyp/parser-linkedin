@@ -37,7 +37,7 @@ In the enter_to_linkedin() function replace the file path with your own.
 
 Don't forget to use double '\\'.
 
-4) You need to set your LinkedIn login and password in the enter_to_linkedin() function.
+4) To set your LinkedIn login and password in the enter_to_linkedin() function.
    
           driver.find_element(By.XPATH, '//*[@id="username"]').send_keys("Login to LinkedIn")
           driver.find_element(By.XPATH, '//*[@id="password"]').send_keys("password for LinkedIn")
