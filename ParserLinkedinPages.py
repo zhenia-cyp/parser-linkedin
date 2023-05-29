@@ -200,13 +200,9 @@ def enter_to_linkedin():
 
 
 if __name__ == "__main__":
-    start_time = time.time()
     enter_to_linkedin()
     end_time = time.time()
     execution_time = end_time - start_time
     minutes = int(execution_time // 60)
-    seconds = int(execution_time % 60)
     hours = minutes // 60
-    minutes = minutes % 60
-
     print(f"Execution time: {hours} hours, {minutes} minutes")
