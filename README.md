@@ -18,7 +18,7 @@ which has proven itself effective in practice.
 Navigate to the folder where you want to save the repository and
 use the command. 
 
-     git clone https://github.com/username/repository.git
+     git clone https://github.com/zhenia-cyp/parser-linkedin.git
 
 2) Navigate to the project folder where "ParserLinkedinPages.py", "requirements.txt"
 and the "chromedriver" folder are located.
