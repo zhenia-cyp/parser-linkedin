@@ -20,7 +20,7 @@ use the command.
 
      git clone https://github.com/zhenia-cyp/parser-linkedin.git
 
-2) Navigate to the project folder where "ParserLinkedinPages.py", "requirements.txt"
+2) Use terminal navigate to the project folder where "ParserLinkedinPages.py", "requirements.txt"
 and the "chromedriver" folder are located.
 
 3) Check the version of your Google Chrome browser in the settings.
@@ -58,11 +58,11 @@ function.
 
 7) Replace "path = r"E:\result25.xlsx"" with the actual path and filename where you want to save the results.
 
-8) Create a virtual environment
+8) Create a virtual environment use the terminal 
 
 python -m venv venv
 
-9) Activate the virtual environment
+9) Activate a virtual environment 
  
  For Windows:
  venv\Scripts\activate
