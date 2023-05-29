@@ -3,6 +3,7 @@ This parser collects the following information from LinkedIn:
 a) Company name.
 b) Company location.
 c) Company website link.
+e) link to the company's linkedin profile.
 
 The parser opens company pages, extracts the specified data, and saves it in an Excel file. 
 If the data is missing or the website link is inaccessible, the corresponding cells in the Excel file 
